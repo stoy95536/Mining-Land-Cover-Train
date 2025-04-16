@@ -8,3 +8,4 @@ tensorflow==2.13.0
 keras==2.13.1
 rasterio>=1.2.10
 pickle-mixin>=1.0.2
+tensorflow-addons
